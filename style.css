@@ -48,7 +48,8 @@ p, #footer {
 }
 
 #balls {
+    margin: 0;
     position: fixed;
-    top: 0;
+    bottom: 0;
     right: 0;
 }

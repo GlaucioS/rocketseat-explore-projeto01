@@ -33,6 +33,7 @@ p, #footer {
   color: #7d7987;
   font-size: 14px;
   line-height: 28px;
+  margin-top: 10px;
 }
 
 #footer a + a {
@@ -43,7 +44,6 @@ p, #footer {
     width: 568px;
     height: 28px;
     margin: 0 8px;
-
     border-bottom: 2px solid #ECEFF2;
 }
 

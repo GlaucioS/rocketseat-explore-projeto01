@@ -1,12 +1,12 @@
 body {
   font-family: "Open Sans", sans-serif;
-  text-align: end;
+  text-align: center;
   margin: 0;
 }
 
 #hero {
     width: 592px;
-    margin: 72px;
+    margin: auto;
 }
 
 img {
@@ -20,9 +20,8 @@ h1 {
   font-weight: normal;
 }
 
-h1 span {
+h1 span{
   font-weight: bold;
-
   margin-bottom: 32px;
 }
 
